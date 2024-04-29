@@ -110,7 +110,7 @@ function enviarPedido() {
   
   // Inclua aqui as variáveis e a lógica para as coberturas e frutas
 
-  var numeroWhatsApp = "27997904763";
+  var numeroWhatsApp = "+5527997904763";
   window.open(`https://wa.me/55${numeroWhatsApp}?text=${encodeURIComponent(mensagem)}`, '_blank');
 }
 </script>
